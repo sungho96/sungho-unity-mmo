@@ -13,10 +13,10 @@
 - **Entity Framework Core (.NET ORM)**
 - **MMORPG 컨텐츠 구현 (DB 연동 + 대형 구조 관리 + 라이브 준비)**
 
-## 📂 파일 관리 (Git LFS)
-LFS 파일은 별도로 관리됩니다.  
-[📂 Google Drive](https://drive.google.com/drive/folders/1H3lNfICavZWO1FXG0UtxzxVySFK69D0p)
-
 ## 🗂️ 진행 과정 (GitHub Projects)
 진행 과정은 GitHub **Projects**에서 관리됩니다.  
 [🔗 진행 현황 확인하기](https://github.com/users/sungho96/projects/2).
+
+## 📂 파일 관리 (Git LFS)
+LFS 파일은 별도로 관리됩니다.  
+[📂 Google Drive](https://drive.google.com/drive/folders/1H3lNfICavZWO1FXG0UtxzxVySFK69D0p)
