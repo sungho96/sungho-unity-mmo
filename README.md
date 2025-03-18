@@ -5,10 +5,15 @@
 배운 기술들을 하나씩 적용하며 점진적으로 발전시키는 것이 목표입니다.
 
 ## 🛠️ 사용 기술
-- Unity 2022.3 LTS
-- C# (OOP, Unity API 활용)
-- Mirror (Networking)
-- SQLite (데이터 저장)
+- **C# 기본 & 알고리즘**
+- **Unity 게임 엔진**
+- **게임 서버 (네트워크, 멀티쓰레드, OS)**
+- **데이터베이스 (SQL Server)**
+- **웹서버 (ASP.NET Core Blazor, Web API)**
+- **MMORPG 컨텐츠 구현 (Unity + C# 서버 연동)**
+- **Entity Framework Core (.NET ORM)**
+- **MMORPG 컨텐츠 구현 (DB 연동 + 대형 구조 관리 + 라이브 준비)**
+
 
 ## 🗂️ 진행 과정 (Development Progress)
 진행 과정은 GitHub **Projects**에서 관리됩니다.  
