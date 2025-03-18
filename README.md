@@ -19,4 +19,4 @@ LFS 파일은 별도로 관리됩니다.
 
 ## 🗂️ 진행 과정 (GitHub Projects)
 진행 과정은 GitHub **Projects**에서 관리됩니다.  
-[🔗 진행 현황 확인하기](https://github.com/사용자명/저장소명/projects/1)
+[🔗 진행 현황 확인하기](https://github.com/users/sungho96/projects/2).
