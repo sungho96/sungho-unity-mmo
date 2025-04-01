@@ -8,16 +8,6 @@ public class LoginScene : BaseScene
     {
         base.init();
         SceneType = Define.Scene.Login;
-
-        List<GameObject> list = new List<GameObject>();
-        for(int i = 0 ; i <2 ; i++)
-        {
-            Managers.Resource.Instantiate("Unitychan");
-        }
-        foreach (GameObject obj in list)
-        {
-            Managers.Resource.Destroy(obj);
-        }
     }
     private void Update()
     {   
